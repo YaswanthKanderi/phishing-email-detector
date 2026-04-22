@@ -1,0 +1,25 @@
+From: security@paypal-service.tk
+Subject: URGENT: Your PayPal Account Has Been Suspended
+
+Dear Customer,
+
+We have detected unusual activity on your PayPal account. Your account has been
+temporarily SUSPENDED to protect your funds.
+
+You must verify your identity immediately to restore access. Failure to respond
+within 24 hours will result in permanent account closure and loss of all funds.
+
+Click here to verify now: <a href="http://paypal-verify.tk/secure-login">https://www.paypal.com/verify</a>
+
+Or use this secure link: http://bit.ly/paypal-restore
+
+You will need to provide:
+- Your PayPal password
+- Credit card number
+- Social security number
+- Date of birth
+
+ACT NOW — this is your FINAL WARNING before account termination!
+
+Thank you,
+PayPal Security Team

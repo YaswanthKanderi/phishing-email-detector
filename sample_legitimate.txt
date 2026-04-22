@@ -1,0 +1,24 @@
+From: sarah.thompson@latrobe.edu.au
+Subject: Assignment feedback — CSE5SEC Week 5
+
+Hi Yaswanth,
+
+Just wanted to let you know I've finished marking your Week 5 assignment on
+network vulnerability assessment. Overall, a solid piece of work — your
+methodology section was particularly strong.
+
+A few minor points for improvement:
+- The executive summary could be a bit more concise
+- Consider adding a risk matrix in the findings section
+- Reference 4 needs formatting adjustments (APA style)
+
+Your grade and detailed feedback are available on the LMS. Please let me know
+if you have any questions or would like to discuss during office hours on
+Thursday between 2pm and 4pm.
+
+Good work overall. Looking forward to seeing your progress on the next assignment.
+
+Kind regards,
+Dr. Sarah Thompson
+Lecturer, Department of Computer Science
+La Trobe University
